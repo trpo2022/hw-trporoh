@@ -2,6 +2,6 @@
 #include <iostream>
 
 main() {
-	printf("Hello world");
+	printf("Hello world today");
 	return 0;
 }
